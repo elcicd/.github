@@ -2,17 +2,17 @@
   
 **Overview of features and documentation for understanding, operating, and developing within el-CICD.**
 
-* [Preamble](#preamble)
-* [License](#license)
-* [PREFACE](#preface)
-* [el-CICD Documentation](#el-cicd-documentation)
-* [TODO](#todo)
+- [Preamble](#preamble)
+- [License](#license)
+- [PREFACE](#preface)
+- [el-CICD Documentation](#el-cicd-documentation)
+- [TODO](#todo)
 
 ## Preamble
 
 This document is part of the el-CICD Project, a complete CICD COTS solution for [OKD, The Community Distribution of Kubernetes that powers Red Hat Openshift](https://www.okd.io/)
 
-Copyright (C) 2021 Evan "Hippy" Slatis  
+Copyright (C) 2023 Evan "Hippy" Slatis  
 email: hippyod -at- yahoo -dot- com
 
 **===================================**
